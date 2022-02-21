@@ -1,0 +1,15 @@
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Deaoner.exe
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Deaoner.deps.json
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Deaoner.runtimeconfig.json
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Deaoner.dll
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\ref\Deaoner.dll
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Deaoner.pdb
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Deaoner.csproj.AssemblyReference.cache
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Deaoner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Deaoner.AssemblyInfoInputs.cache
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Deaoner.AssemblyInfo.cs
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Deaoner.csproj.CoreCompileInputs.cache
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Deaoner.dll
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\ref\Deaoner.dll
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Deaoner.pdb
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Deaoner.genruntimeconfig.cache

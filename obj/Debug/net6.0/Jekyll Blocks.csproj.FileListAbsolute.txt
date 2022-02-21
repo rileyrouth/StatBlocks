@@ -1,0 +1,14 @@
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Jekyll Blocks.exe
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Jekyll Blocks.deps.json
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Jekyll Blocks.runtimeconfig.json
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Jekyll Blocks.dll
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\ref\Jekyll Blocks.dll
+C:\Users\theri\github\Deaoner\bin\Debug\net6.0\Jekyll Blocks.pdb
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Jekyll Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Jekyll Blocks.AssemblyInfoInputs.cache
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Jekyll Blocks.AssemblyInfo.cs
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Jekyll Blocks.csproj.CoreCompileInputs.cache
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Jekyll Blocks.dll
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\ref\Jekyll Blocks.dll
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Jekyll Blocks.pdb
+C:\Users\theri\github\Deaoner\obj\Debug\net6.0\Jekyll Blocks.genruntimeconfig.cache
