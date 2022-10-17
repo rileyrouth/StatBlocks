@@ -1,14 +1,21 @@
 ﻿using StatBlocks;
 using System.IO;
+using System.Net;
 
-DirectoryInfo dir = new(@"C:\Users\theri\github\Deaoner\inputs");
+DirectoryInfo inputs = new(@"C:\Users\theri\Documents\GitHub\StatBlocks\inputs\");
+DirectoryInfo outputs = new($@"C:\Users\theri\Documents\GitHub\StatBlocks\result\");
 
-foreach (FileInfo file in dir.GetFiles())
+foreach (FileInfo file in inputs.GetFiles(".txt"))
 {
-    if (file.Extension == ".txt")
+    string[] fileAsString = File.ReadAllLines(file.FullName);
+    List<string> fileAsList = new List<string>();
+    foreach (string i in fileAsString)
     {
-        Creature creature = new(System.IO.File.ReadAllLines(file.FullName));
-        Task task = creature.WriteToFile($@"C:\Users\theri\Documents\Website\pathfinder\_creatures\{creature.Name}.md");
-        Console.WriteLine("Written " + creature.Name);
+        fileAsList.Add(i);
     }
+    Creature creature = new(fileAsList);
+
+
+    // Task task = creature.WriteToFile($@"C:\Users\theri\Documents\GitHub\StatBlocks\result\{creature.Name}.md");
+    // Console.WriteLine("Written " + creature.Name);
 }

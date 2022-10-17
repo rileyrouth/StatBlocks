@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\theri\\github\\Deaoner\\StatBlocks.csproj",
+      "projectUniqueName": "C:\\Users\\theri\\Documents\\GitHub\\StatBlocks\\StatBlocks.csproj",
       "projectName": "StatBlocks",
-      "projectPath": "C:\\Users\\theri\\github\\Deaoner\\StatBlocks.csproj",
+      "projectPath": "C:\\Users\\theri\\Documents\\GitHub\\StatBlocks\\StatBlocks.csproj",
       "packagesPath": "C:\\Users\\theri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\theri\\github\\Deaoner\\obj\\",
+      "outputPath": "C:\\Users\\theri\\Documents\\GitHub\\StatBlocks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\theri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
